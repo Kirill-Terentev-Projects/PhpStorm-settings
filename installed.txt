@@ -1,0 +1,5 @@
+com.markskelton.one-dark-theme
+pro.opcode.bitrix
+izhangzhihao.rainbow.brackets
+com.bitrixsoft.lang
+com.mallowigi
