@@ -1,13 +1,24 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="pid" type="AUTO_DETECTED" />
       <mapping pattern="price" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="error_log" type="AUTO_DETECTED" />
+      <mapping pattern="megaline39_error_log" type="AUTO_DETECTED" />
       <mapping pattern="te" type="AUTO_DETECTED" />
+      <mapping pattern="megaline39_access_log" type="AUTO_DETECTED" />
+      <mapping pattern="crm_error_log" type="AUTO_DETECTED" />
+      <mapping pattern="status" type="AUTO_DETECTED" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="restore" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>

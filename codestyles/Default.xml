@@ -22,6 +22,7 @@
     <option name="HTML_INLINE_ELEMENTS" value="" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <LessCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
